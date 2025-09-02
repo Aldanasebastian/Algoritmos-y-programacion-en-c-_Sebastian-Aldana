@@ -1,0 +1,11 @@
+Bitacora clase 3
+Fecha: 02_09_2025
+Buscadores de internet:
+funcionan como un rastreador en la web organizando la informacion que requiere el ususario, como sabemos existen diferentes tipos de navegadores o buscadores que podemos utilizar y
+cada uno tiene diferentes algoritmos que se encargan de organizar y mostrar la informacion, algunos de estos navegadores son: 
+
+1.Google: el mas reconocido y mas usado, tiene diferentes funciones integradas ya sea la busqueda por imagenes o comandos que hacen que las busquedas sean mas especificas, 
+google tambien posee una extension bastante util en donde se pueden buscar papers de investigacion, llamada Google academico o scholar. El algoritmo que usa Google para sus
+busquedas es llamado Pagerank el cual ordena los resultados del mas popular al menos popular. 
+
+   
