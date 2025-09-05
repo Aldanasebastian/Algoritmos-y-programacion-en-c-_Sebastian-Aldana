@@ -5,8 +5,15 @@ funcionan como un rastreador en la web organizando la informacion que requiere e
 cada uno tiene diferentes algoritmos que se encargan de organizar y mostrar la informacion, algunos de estos navegadores son: 
 
 1.Google: el mas reconocido y mas usado, tiene diferentes funciones integradas ya sea la busqueda por imagenes o comandos que hacen que las busquedas sean mas especificas, 
-google tambien posee una extension bastante util en donde se pueden buscar papers de investigacion, llamada Google academico o scholar aparte de esta tambien tenemos la extension de google imagenes . El algoritmo que usa Google para sus busquedas es llamado Pagerank el cual ordena los resultados del mas popular al menos popular. 
-2.Yahoo: Es una plataforma que ademas de funcionar como buscador en su pagina de inicio nos arroja mucha mas informacion ya sean noticias, el clima, deportes o muchas mas cosas relacionadas con el entretenimiento, aparte tambien ofrece in sistema de correo electronico, esta utiliza un algortimo nombrado como webrank que mide la popularidad de la pagina del 1 al 10. 
-3.Bing: Este motor de busqueda funciona de una manera similar a google pues permite hacer busquedas utilizando imagenes, palabras especificas y muchas mas funciones pero con el agregado de que usa IA para ofrecer una busqueda mas amplia, su algoritmo analiza muchos factores para que la busqueda sea segura, desde el contenido de la pagina hasta la calidad de los sitios web que han enlazado la pagina.
+google tambien posee una extension bastante util en donde se pueden buscar papers de investigacion, llamada Google academico o scholar aparte de esta tambien tenemos la 
+extension de google imagenes . El algoritmo que usa Google para sus busquedas es llamado Pagerank el cual ordena los resultados del mas popular al menos popular. 
+2.Yahoo: Es una plataforma que ademas de funcionar como buscador en su pagina de inicio nos arroja mucha mas informacion ya sean noticias, el clima, deportes o muchas 
+mas cosas relacionadas con el entretenimiento, aparte tambien ofrece in sistema de correo electronico, esta utiliza un algortimo nombrado como webrank que mide la 
+popularidad de la pagina del 1 al 10. 
+3.Bing: Este motor de busqueda funciona de una manera similar a google pues permite hacer busquedas utilizando imagenes, palabras especificas y muchas mas funciones pero 
+con el agregado de que usa IA para ofrecer una busqueda mas amplia, su algoritmo analiza muchos factores para que la busqueda sea segura, desde el contenido de la pagina 
+hasta la calidad de los sitios web que han enlazado la pagina.
 
-Conclusion: Para finalizar hay muchos motores de busqueda con diferentes funciones y ventajas sobre los otros, no obstante todos comparten una misma base la cual es ofrecer una busqueda rapida y facil para el usuario, de tal manera que lo normal es usar google ya que la interfaz que ofrece es mas amigable con usiarios nuevos o que no tengas mucha experiencia con las busquedas en la red. 
+Conclusion: Para finalizar hay muchos motores de busqueda con diferentes funciones y ventajas sobre los otros, no obstante todos comparten una misma base la cual es 
+ofrecer una busqueda rapida y facil para el usuario, de tal manera que lo normal es usar google ya que la interfaz que ofrece es mas amigable con usiarios nuevos o 
+que no tengas mucha experiencia con las busquedas en la red. 
