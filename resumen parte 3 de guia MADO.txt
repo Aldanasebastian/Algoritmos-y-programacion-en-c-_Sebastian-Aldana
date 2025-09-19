@@ -1,0 +1,44 @@
+-Resumen de la Guía Práctica 03: Solución de Problemas y Algoritmos
+
+-Objetivo:  
+Elaborar algoritmos correctos y eficientes siguiendo las etapas de Análisis y Diseño del ciclo de vida del software.
+
+-Actividades Principales:  
+Identificar el conjunto de entrada y salida a partir del enunciado de un problema. Diseñar un algoritmo que lo resuelva, 
+identificando los módulos de entrada, procesamiento y salida.
+
+-Introducción:  
+Un problema informático es un conjunto de instancias con un conjunto de soluciones posibles. La Ingeniería de Software es un enfoque sistemático para el desarrollo,
+operación y mantenimiento del software. Las etapas clave incluyen planeación, análisis de requerimientos, diseño de datos y algoritmos, codificación, y pruebas y mantenimiento.
+
+-Ciclo de Vida del Software:  
+Según la norma ISO 12207, incluye las etapas de definición, desarrollo, explotación, mantenimiento y finalización.
+
+-Análisis del Problema:  
+Se identifican dos conjuntos clave: el conjunto de entrada (datos que alimentan al sistema) y el conjunto de salida (resultados que devuelve el sistema).
+La unión de ambos forma el dominio del problema.
+
+-Ejemplos de Análisis:  
+Para determinar si un número es positivo o negativo, la entrada es un número real distinto de cero y la salida es un indicador. Para obtener el mayor de dos números diferentes, 
+la entrada son dos números reales diferentes y la salida es el número mayor. Para calcular el factorial, la entrada es un número natural o cero y la salida es su factorial.
+
+-Algoritmos:  
+Conjunto de pasos precisos, definidos, finitos y correctos para resolver un problema. Un buen algoritmo debe ser preciso, definido, finito, correcto, eficiente, eficaz y legible.
+
+-Estructura de un Algoritmo:  
+Consta de tres módulos: módulo de entrada (lectura de datos), módulo de procesamiento (operaciones para obtener resultados) y 
+módulo de salida (presentación de resultados).
+
+-Prueba de Escritorio:  
+Tabla que muestra los valores de las variables en cada iteración, permitiendo validar el correcto funcionamiento del algoritmo.
+
+-Ejercicios No Numéricos:  
+Incluyen seguir algoritmos para dibujar figuras como una estrella de 5 puntas o una de 6 puntas usando compás y regla, 
+desarrollando habilidades de pensamiento lógico.
+
+-Referencias:  
+Incluyen la norma ISO/IEC 12207 para el ciclo de vida del software y herramientas de diagramación.
+
+-Conclusión:  
+Esta guía enfatiza la importancia del análisis estructurado y el diseño de algoritmos como base para la solución de problemas en programación. 
+La práctica incluye ejemplos numéricos y no numéricos para desarrollar habilidades de pensamiento lógico y algorítmico.
