@@ -1,0 +1,22 @@
+Algoritmo Ecuacion_cuadratica
+	Definir a,b,c, d, x1,x2,xr,xi Como Real
+	Escribir "Escriba los coeficientes de la ecuacion ax^2+bx+c"
+	Leer A;
+	Leer b;
+	leer c;
+	d=(b^2)-4*a*c
+	si d >= 0 Entonces
+		Escribir "Las soluciones de la ecuacion son reales"
+		x1=(-b+RC(d))/(2*a) 
+		x2=(-b-RC(d))/(2*a)
+		Escribir "Las soluciones de la ecuacinon son" x1, "y " x2
+	SiNo
+		Escribir "la solucion es imaginaria" 
+		xi=RC(-d)/2*a
+		xr=-b/2*a 
+		Escribir "la solucion es " xr, "+" xi, "i" 
+	FinSi
+	
+	
+
+FinAlgoritmo
